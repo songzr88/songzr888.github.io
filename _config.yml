@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://s21.ax1x.com/2025/03/13/pEUhigx.jpg"
   name             : "宋卓然"
   pronouns         : # example: "she/her"  
   bio              : "慢慢学，慢慢搞"
