@@ -13,7 +13,7 @@ title                    : "我的第一个网站"
 title_separator          : "-"
 name                     : &name "宋卓然"
 description              : &description "会唱跳rap篮球"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[songzr888].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
